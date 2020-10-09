@@ -1,0 +1,20 @@
+.image
+{
+    width: 400px;
+    height: 300px;
+    padding: 30px;
+
+    margin: 5px;
+
+}
+
+.jumbotron
+{
+    margin: 30px;
+    margin-left: 200px;
+    margin-right:200px;
+    padding: 50px;
+    background-color: darkkhaki;
+    font-size: 50px;
+    color: blanchedalmond;
+}
